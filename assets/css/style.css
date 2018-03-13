@@ -161,3 +161,9 @@ p {
     height: 55px;
     padding-top: 10px;
 }
+
+.project-images {
+    height: 250px;
+    width: 350px;
+    margin: 10px;
+}
